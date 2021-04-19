@@ -1,8 +1,7 @@
 # Hello From Github 
-<<<<<<< HEAD
+HEAD
 commit->@algodr
 ## This is Second Commit
 Author Commit @algodr
-=======
 commit->@algodr !
->>>>>>> origin
+origin
