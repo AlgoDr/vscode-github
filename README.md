@@ -39,7 +39,9 @@ git branch -d name-of-branch-to-be-deleted
  so you first add thid as git add filenamea
  and than commit so what you can do is silmantaneously add and commit same time as a shortcut as
 
+NOTE : Only work for modified file in git status apperance not for newly created
+
  git commit -am "what you did"
  -a for add
  and
- -m for commit message 
+ -m for commit message  
