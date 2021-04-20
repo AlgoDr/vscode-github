@@ -30,7 +30,16 @@ by merging pull request (which is code of feature branch)
 ### TO DELETE BRANCH AnD ADD
 To add
 git checkout -b branch_name (-b for new branch to be added)
-
 To delete 
 git branch -d name-of-branch-to-be-deleted
 (-d for the branch to be deleted)
+
+### To Add and Commit same Tym 
+ Whenever you made modification to your files your changes can be seen in git status command 
+ so you first add thid as git add filenamea
+ and than commit so what you can do is silmantaneously add and commit same time as a shortcut as
+
+ git commit -am "what you did"
+ -a for add
+ and
+ -m for commit message 
