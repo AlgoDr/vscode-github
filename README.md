@@ -29,7 +29,8 @@ by merging pull request (which is code of feature branch)
 
 ### TOE DELETE BRANC
 To add
-git branch -b branch_name
+git checkout -b branch_name (-b for new branch to be added)
 
 To delete 
 git brancg -d name-of-branch-to-be-deleted
+(-d for the branch to be deleted)
