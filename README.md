@@ -27,3 +27,9 @@ base: main <- feature/2(feature branch) PULL REQUEST ON INTERFACE
 and after that you can merge the request to pull the code to the main branch
 by merging pull request (which is code of feature branch)
 
+### TOE DELETE BRANC
+To add
+git branch -b branch_name
+
+To delete 
+git brancg -d name-of-branch-to-be-deleted
