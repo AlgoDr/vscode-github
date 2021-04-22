@@ -46,3 +46,12 @@ NOTE : Only work for modified file in git status apperance not for newly created
  -a for add
  and
  -m for commit message  
+
+## To DELETE BRANCH Remotely
+
+to delete remotely you have to pass with push as a argument like
+
+git push <remote_variable> --delete <branch_name>
+->git push origin --delete featured-branch-you-want-to-delete
+
+
