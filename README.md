@@ -55,3 +55,19 @@ git push <remote_variable> --delete <branch_name>
 ->git push origin --delete featured-branch-you-want-to-delete
 
 
+
+### There Is been a lot of confusion over a pull request so let me clear this up
+
+pull request appears to be drag a code from remote to local
+but what makes it tricky is that 
+#### when to be use pull request
+when you are working on featured branch apart from master/main
+and suppose you improve something in the codebase
+so in order includes that changes onto main branch or any other branch 
+the USER who is working on featured branch ITSELF declare the pull request
+SO  THAT ITS CODE CAN BE PULLED ONTO THE MAIN/OR ANY BRANCH 
+after the discussion and review your request to be pulled onto main
+once gets a green light from other user who are also contrubuting 
+you can merge your pull request onto main branch
+and main gets updated from your code support
+ 
